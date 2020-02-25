@@ -1,5 +1,6 @@
 # hello-world
 ====================================================================  
 Hello everyone!  
-Recent university graduate learning Python and bioinformatics.  
-Know Java and Python (-ish level for both).
+MSc candidate in epidemiology at McGill University.  
+Getting to know R (and one-indexed vectors).  
+Familiar with Python and Java.
